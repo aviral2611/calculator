@@ -131,3 +131,24 @@ document.getElementById("demo").innerText=null;
 // var i;
 // console.log(button.length);
 // console.log(button[0]);
+
+<!--<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Comments</h2>
+
+<p id="demo"></p>
+
+<script>
+let x = 5;      // Declare x, give it the value of 5
+let y = x + 2;  // Declare y, give it the value of x + 2 
+
+// Write y to demo:
+document.getElementById("demo").innerHTML = y;
+</script>
+
+
+</body>
+</html>
+--!>
